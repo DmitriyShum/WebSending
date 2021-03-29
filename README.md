@@ -1,6 +1,6 @@
-#WebSending
+# WebSending
 ***
-###Better terminal, 
-###Better Description, 
-###Better output.
+### Better terminal, 
+### Better Description, 
+### Better output.
 ***
