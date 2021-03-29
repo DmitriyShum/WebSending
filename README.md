@@ -1,5 +1,11 @@
-# WebSending
-Better terminal, better description, better output. WebSending.
+```html
+<html>
+<head>
+ </head>
+<body>
+ <h1>WebSending</h1>
+<hr />
 
-## Should any bugs appear, please do contact the developer which is me.
- email: dmitriyshum6@gmail.com
+ <b>Welcome to WebSending! The easier and better command prompt/terminal.</h1>
+ </body>
+</html>
