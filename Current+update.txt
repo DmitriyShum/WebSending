@@ -1,2 +1,5 @@
 Update as of 9/26/21:
 Websending is unable to be worked on atm for the reason being that I am busy with education, and do not have any support or programmers to help me.
+
+Update as of 7/29/22:
+I still currently have no team mates to help with this project, I also started off with the wrong language.
