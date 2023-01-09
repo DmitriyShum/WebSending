@@ -3,3 +3,6 @@ Websending is unable to be worked on atm for the reason being that I am busy wit
 
 Update as of 7/29/22:
 I still currently have no team mates to help with this project, I also started off with the wrong language.
+
+Update as of 1/8/23:
+I have written a mini command prompt in Java with which the user may also add their own commands with some Java experience.
