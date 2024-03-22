@@ -6,3 +6,4 @@
 ### It'll be easier for the both of us!
 ### It will be posted here: [Websending](https://www.dhotspot.xyz/websending.html)
 ***
+### Starting command: "search", type this to see all the commands. Enjoy!
